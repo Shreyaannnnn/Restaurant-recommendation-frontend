@@ -123,3 +123,18 @@
   .inputss{
     margin-top: 25px;
   }
+
+  input[type="text"], select {
+    width: 30%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+
+  select {
+    appearance: none;
+    -webkit-appearance: none;
+    /* background: url('dropdown-arrow.png') no-repeat right center;
+    background-size: 20px; */
+  }

@@ -13,9 +13,9 @@ const Footer = () => (
     <div className="app__footer-links">
       <div className="app__footer-links_contact">
         <h1 className="app__footer-headtext">Contact Us</h1>
-        <p className="p__opensans">Address bhi nahi bataunga</p>
-        <p className="p__opensans">+91 heh no</p>
-        <p className="p__opensans">+91 still no</p>
+        {/* <p className="p__opensans">Address bhi nahi bataunga</p> */}
+        <p className="p__opensans">+91 9748784377</p>
+        <p className="p__opensans">+91 7836743678</p>
       </div>
 
       <div className="app__footer-links_logo">
