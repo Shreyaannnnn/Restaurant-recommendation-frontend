@@ -21,7 +21,7 @@ const Footer = () => (
       <div className="app__footer-links_logo">
         <img src={images.logoo} alt="footer_logo" />
         <p className="p__opensans">
-          &quot;Catch phraseeeee&quot;
+          &quot;One Stop Solution for all the Foodies&quot;
         </p>
         <img
           src={images.spoon}
