@@ -130,6 +130,8 @@
     margin-bottom: 15px;
     border: 1px solid #ccc;
     border-radius: 3px;
+    font-size: 20px;
+    background-color: #e1d5d5;
   }
 
   select {
